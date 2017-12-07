@@ -1,3 +1,3 @@
-# Headline
+# LeetCode Record
 
-> An awesome project.
+> 一些 LeetCode 的做题记录
