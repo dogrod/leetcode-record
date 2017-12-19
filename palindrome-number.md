@@ -25,7 +25,7 @@ There is a more generic way of solving this problem.
 ### Solutions
 
 #### #1
-Runtime: 496ms
+Runtime: 435ms
 ```
 /**
  * @param {number} x
@@ -44,7 +44,7 @@ var isPalindrome = function(x) {
       absX = parseInt(absX / 10, 10)
     }
     
-    return (x === reverse || x === -reverse)
+    return x === reverse
 };
 ```
 **注意：**负数并不是回文数，需要过滤
