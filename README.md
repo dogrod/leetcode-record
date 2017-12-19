@@ -16,8 +16,8 @@
   - [Isomorphic Strings](/isomorphic-strings)
 
 - Linked list - 链表
-  - [Merge Two Sorted Lists](/merge-two-sorted-lists)
   - [Add Two Numbers](/add-two-numbers)
+  - [Merge Two Sorted Lists](/merge-two-sorted-lists)
 
 - Two Pointers - 双指针
   - [Longest Substring Without Repeating Characters](/longest-substring-without-repeating-characters)
