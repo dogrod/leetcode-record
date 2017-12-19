@@ -1,6 +1,7 @@
 - [#1 Two Sum](/two-sum)
 - [#2 Add Two Numbers](/add-two-numbers)
 - [#3 Longest Substring Without Repeating Characters](/longest-substring-without-repeating-characters)
+- [#7 Reverse Integer](/reverse-integer)
 - [#21 Merge Two Sorted Lists](/merge-two-sorted-lists)
 - [#70 Climbing Stairs](/climbing-stairs)
 - [#205 Isomorphic Strings](/isomorphic-strings)
