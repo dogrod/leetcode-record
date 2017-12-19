@@ -46,3 +46,4 @@ var reverse = function(x) {
     return reverse > 2147483647 ? 0 : parseInt(x > 0 ? reverse : `-${reverse}`)
 };
 ```
+**注意：**32 位整数的范围为 -2147483648 ~ 2147483647
