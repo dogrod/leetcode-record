@@ -20,9 +20,12 @@ Given ``"paper"``, ``"title"``, return true.
 **Note:**
 You may assume both s and t have the same length.
 
-## #1 记录并检查字母第一次出现的位置
-Runtime: 88ms
+### Thoughts
+1. 记录并检查字母第一次出现的位置，使用两个Map记录对应的index，并向右扫描进行对比
 
+### Solutions
+#### #1
+Runtime: 88ms
 ```
 /**
  * @param {string} s
