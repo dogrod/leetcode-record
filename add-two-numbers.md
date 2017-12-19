@@ -83,8 +83,8 @@ Runtime: 199ms
  * @return {ListNode}
  */
 var addTwoNumbers = function(l1, l2) {
-    let List = new ListNode(0) // 期望的 ListNode
-    let head = List
+    let List = new ListNode(0)
+    let head = List // 期望的 ListNode
     let sum = 0 // 当前round的和，最大的情况为18，当sum >= 10时，carry = 1，sum = sum - 10
     let carry = 0 // 十位数字，最大为1，在十位计算完成后归零
     
@@ -108,4 +108,5 @@ var addTwoNumbers = function(l1, l2) {
     return List.next
 };
 ```
-**注意：** head 不可以直接使用 ``let head = new List()`` 进行声明，而是引用 List 进行声明，否则返回 ``head.next`` 返回的是整个链表的最后一个，即 ``null``。最终的 List 为 ``0 -> 7 -> 0 -> 8``
+**注意** head 不可以直接使用 ``let head = new List()`` 进行声明，而是引用 List 进行声明，否则返回 ``head.next`` 返回的是整个链表的最后一个，即 ``null``
+最终的 List 为 ``0 -> 7 -> 0 -> 8``
