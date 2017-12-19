@@ -33,6 +33,8 @@ Runtime: 496ms
  */
 var isPalindrome = function(x) {
     if (x < 0) return false
+    if (x < 10) return true
+    if (x % 10 === 0) return false // 注意顺序，x 可能为 0
     
     let absX = Math.abs(x)
     let reverse = 0
