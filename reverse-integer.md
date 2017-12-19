@@ -40,10 +40,10 @@ Runtime: 139ms
 var reverse = function(x) {
     if (x > -10 && x < 10) return x
   
-    const str = x > 0 ? String(x) : String(x).substring(1, x.length)
+    const str = String(Math.abs(x))
     const reverse = str.split('').sort(() => 1).join('')
     
-    return reverse > 2147483647 ? 0 : parseInt(x > 0 ? reverse : `-${reverse}`)
+    return reverse > Math.pow(2, 31) ? 0 : parseInt(x > 0 ? reverse : `-${reverse}`)
 };
 ```
-**注意：**32 位整数的范围为 -2147483648 ~ 2147483647，题目说明 overflow 时返回 0
+**注意：**32 位整数的范围为 +-2^31，题目说明 overflow 时返回 0
