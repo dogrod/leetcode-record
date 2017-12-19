@@ -1,5 +1,7 @@
 ## Merge Two Sorted Lists
 
+> Difficulty: Easy
+
 > From https://leetcode.com/problems/merge-two-sorted-lists/description/
 
 ### Description

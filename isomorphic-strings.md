@@ -1,5 +1,7 @@
 ## Isomorphic Strings
 
+> Difficulty: Easy
+
 > From https://leetcode.com/problems/isomorphic-strings/description/
 
 ### Description

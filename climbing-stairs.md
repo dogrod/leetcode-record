@@ -1,5 +1,7 @@
 ## Climbing Stairs
 
+> Difficulty: Easy
+
 > From https://leetcode.com/problems/climbing-stairs/description/
 
 ### Description

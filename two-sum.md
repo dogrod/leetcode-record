@@ -1,4 +1,6 @@
-## Two sum
+## Two Sum
+
+> Difficulty: Easy
 
 > From https://leetcode.com/problems/two-sum/description/
 

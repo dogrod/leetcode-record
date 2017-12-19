@@ -1,5 +1,7 @@
 ## Add Two Numbers
 
+> Difficulty: Medium
+
 > From https://leetcode.com/problems/add-two-numbers/description/
 
 ### Description
