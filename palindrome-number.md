@@ -25,3 +25,24 @@ There is a more generic way of solving this problem.
 ### Solutions
 
 #### #1
+Runtime: 496ms
+```
+/**
+ * @param {number} x
+ * @return {boolean}
+ */
+var isPalindrome = function(x) {
+    if (x < 0) return false
+    
+    let absX = Math.abs(x)
+    let reverse = 0
+    
+    while (absX > 0) {
+      reverse = reverse * 10 + absX % 10
+      absX = parseInt(absX / 10, 10)
+    }
+    
+    return (x === reverse || x === -reverse)
+};
+```
+**注意：**负数并不是回文数，需要过滤
