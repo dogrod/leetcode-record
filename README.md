@@ -25,6 +25,7 @@
 - Math - 数学
   - [Add Two Numbers](/add-two-numbers)
   - [Reverse Integer](/reverse-integer)
+  - [Palindrome Number](/palindrome-number)
 
 - Dynamic Programming - 动态计算
   - [Climbing Stairs](/climbing-stairs)
