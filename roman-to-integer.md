@@ -11,7 +11,7 @@ Given a roman numeral, convert it to an integer.
 Input is guaranteed to be within the range from 1 to 3999.
 
 ### Thoughts
-1. 创建罗马字 - 数字字典，然后使用sliding window [i, j)从左至右扫描计算，根据规律，从左至右递减，如果 prev < next（只有一个前一字母小于后一字母的可能），则和为 sum + (next - prev)，其他情况一律 sum + prev + next。时间复杂度 O(2n)
+1. 创建罗马字 - 数字字典，然后提取当前的字母和下一个字母进行比对，根据规律，从左至右递减，如果 prev < next（只有一个前一字母小于后一字母的可能），则和为 sum + (next - prev)，索引+2，其他情况一律 sum + prev，时间复杂度 O(n)
 
 ### Solutions
 
