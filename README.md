@@ -6,6 +6,7 @@
 
 - String - 字符串
   - [Longest Substring Without Repeating Characters](/longest-substring-without-repeating-characters)
+  - [Roman to Integer](/roman-to-integer)
 
 - Array - 数组
   - [Two Sum](/two-sum)
@@ -26,6 +27,7 @@
   - [Add Two Numbers](/add-two-numbers)
   - [Reverse Integer](/reverse-integer)
   - [Palindrome Number](/palindrome-number)
+  - [Roman to Integer](/roman-to-integer)
 
 - Dynamic Programming - 动态计算
   - [Climbing Stairs](/climbing-stairs)
