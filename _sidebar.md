@@ -5,5 +5,6 @@
 - [#9 Palindrome Number](/palindrome-number)
 - [#13 Roman to Integer](/roman-to-integer)
 - [#21 Merge Two Sorted Lists](/merge-two-sorted-lists)
+- [#26 Remove Duplicates from Sorted Array](/remove-duplicates-from-sorted-array)
 - [#70 Climbing Stairs](/climbing-stairs)
 - [#205 Isomorphic Strings](/isomorphic-strings)

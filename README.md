@@ -10,6 +10,8 @@
 
 - Array - 数组
   - [Two Sum](/two-sum)
+  - [Remove Duplicates from Sorted Array](/remove-duplicates-from-sorted-array)
+
 
 - Hash Table - 散列表
   - [Two Sum](/two-sum)
@@ -22,6 +24,7 @@
 
 - Two Pointers - 双指针
   - [Longest Substring Without Repeating Characters](/longest-substring-without-repeating-characters)
+  - [#26 Remove Duplicates from Sorted Array](/remove-duplicates-from-sorted-array)
 
 - Math - 数学
   - [Add Two Numbers](/add-two-numbers)
