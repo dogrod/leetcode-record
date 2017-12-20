@@ -41,4 +41,4 @@ var longestCommonPrefix = function(strs) {
     return prefix
 };
 ```
-**注意：** ``strs[i]`` 与 ``prefix`` 有可能为 ``"ca"`` 和 ``a`` 这样的情况。所以不能使用 ``strs[i].indexOf(prefix)`` 进行判断，而是直接截取头部同等长度的字符串进行比对。
+**注意：** ``strs[i]`` 与 ``prefix`` 有可能为 ``"ca"`` 和 ``"a"`` 这样的情况。所以不能使用 ``strs[i].indexOf(prefix)`` 进行判断，而是直接截取头部同等长度的字符串进行比对。
