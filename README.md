@@ -7,6 +7,7 @@
 - String - 字符串
   - [Longest Substring Without Repeating Characters](/longest-substring-without-repeating-characters)
   - [Roman to Integer](/roman-to-integer)
+  - [Longest Common Prefix](/longest-common-prefix)
 
 - Array - 数组
   - [Two Sum](/two-sum)
