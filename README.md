@@ -6,6 +6,7 @@
 
 - String - 字符串
   - [Longest Substring Without Repeating Characters](/longest-substring-without-repeating-characters)
+  - [Longest Palindromic Substring](/longest-palindromic-substring)
   - [Roman to Integer](/roman-to-integer)
   - [Longest Common Prefix](/longest-common-prefix)
 
