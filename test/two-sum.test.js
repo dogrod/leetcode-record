@@ -1,0 +1,25 @@
+const mocha = require('mocha')
+const expect = require('chai').expect
+
+const twoSum = require('../src/two-sum')
+
+describe(
+  'Two Sum: Given an array of integers, return indices of the two numbers such that they add up to a specific target.', 
+  () => {
+    it(
+      'Solution 1',
+      () => {
+        const result = twoSum.solution1([2, 7, 11, 15], 9)
+        expect(result).to.deep.equal([0, 1])
+      }
+    )
+
+    it(
+      'Solution 2',
+      () => {
+        const result = twoSum.solution2([2, 7, 11, 15], 9)
+        expect(result).to.deep.equal([0, 1])
+      }
+    )
+  }
+)
