@@ -3,7 +3,7 @@
  * @param {number} target
  * @return {number[]}
  */
-let solution1 = (nums: number[], target: number) => {
+const solution1 = (nums: number[], target: number) => {
   for (let i = 0; i < nums.length; i++) {
       for (let j = i + 1; j < nums.length; j++) {
           if (nums[i] + nums[j] === target) {
@@ -18,7 +18,7 @@ let solution1 = (nums: number[], target: number) => {
  * @param {number} target
  * @return {number[]}
  */
-let solution2 = (nums: number[], target: number) => {
+const solution2 = (nums: number[], target: number) => {
   const length = nums.length
 
   for (let i = 0; i < length; i++) {
