@@ -10,6 +10,20 @@
   "scripts": {
     "test": "jest --coverage"
   },
+  "jest": {
+    "transform": {
+      "^.+\\.tsx?$": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dogrod/leetcode-record.git"
@@ -24,9 +38,8 @@
   },
   "homepage": "https://github.com/dogrod/leetcode-record#readme",
   "devDependencies": {
-    "jest": "^22.0.3"
-  },
-  "dependencies": {
-    "jest-cli": "^22.0.3"
+    "@types/jest": "^22.0.1",
+    "ts-jest": "^22.0.1",
+    "typescript": "^2.6.2"
   }
 }
