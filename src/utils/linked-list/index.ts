@@ -4,7 +4,23 @@ import ListNode from './list-node'
  * Implementation of Singly Linked List with TypeScript
  */
 class LinkedList {
-  protected head: ILinkedList.ListNode
+  public head: ILinkedList.ListNode
+  
+  /**
+   * Return a array that contains all item in linked-list by ascending-index order
+   */
+  public static getArray(currentNode: ILinkedList.ListNode) {
+    const array = []
+
+    while (
+      currentNode.next !== null
+    ) {
+      array.push(currentNode.next.element)
+      currentNode = currentNode.next
+    }
+
+    return array
+  }
 
   /**
    * Find specific item in linked-list
@@ -30,23 +46,6 @@ class LinkedList {
     currentNode.next = newNode
 
     return currentNode
-  }
-
-  /**
-   * Return a array that contains all item in linked-list by ascending-index order
-   */
-  public getArray() {
-    let currentNode = this.head
-    const array = []
-
-    while (
-      currentNode.next !== null
-    ) {
-      array.push(currentNode.next.element)
-      currentNode = currentNode.next
-    }
-
-    return array
   }
 
   /**

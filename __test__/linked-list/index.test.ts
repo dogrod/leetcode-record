@@ -12,7 +12,8 @@ describe(
         cities.insert('Alma', 'Russellville')
 
         const expectResult = ['Conway', 'Russellville', 'Alma']
-        expect(cities.getArray()).toEqual(expectResult)
+
+        expect(LinkedList.getArray(cities.head)).toEqual(expectResult)
       }
     )
 
@@ -22,7 +23,7 @@ describe(
         const originArray = [7, 0, 8]
         const linkedList = new LinkedList(originArray)
 
-        expect(linkedList.getArray()).toEqual(originArray)
+        expect(LinkedList.getArray(linkedList.head)).toEqual(originArray)
       }
     )
   }
