@@ -18,7 +18,7 @@ X | 5 | [Longest Palindromic Substring](http://leetcode.dogrod.com/#/problems/lo
 ✓ | 14 | [Longest Common Prefix](http://leetcode.dogrod.com/#/problems/longest-common-prefix) | Easy |   |   | String
 ✓ | 21 | [Merge Two Sorted Lists](http://leetcode.dogrod.com/#/problems/merge-two-sorted-lists) | Easy |   |   | Linked List
 ✓ | 26 | [Remove Duplicates from Sorted Array](http://leetcode.dogrod.com/#/problems/remove-duplicates-from-sorted-array) | Easy |   |   | Array, Two Pointers
-✓ | 70 | [Climbing Stairs](http://leetcode.dogrod.com/#/problems/climbing-stairs) | Easy |   |   | Dynamic Programming
+✓ | 70 | [Climbing Stairs](http://leetcode.dogrod.com/#/problems/climbing-stairs) | Easy | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/climbing-stairs.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/unit/climbing-stairs.spec.ts) | Dynamic Programming
 ✓ | 205 | [Isomorphic Strings](http://leetcode.dogrod.com/#/problems/isomorphic-strings) | Easy | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/isomorphic-strings.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/unit/isomorphic-strings.spec.ts) | Hash Table
 
 ### Implementation of Specific Data Structures with TypeScript 
