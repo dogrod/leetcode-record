@@ -25,4 +25,4 @@ X | 5 | [Longest Palindromic Substring](http://leetcode.dogrod.com/#/problems/lo
 
 Name | Source Code | Unit Test | Note
 ---  | ---         | ---       | ---
-[Linked List](http://leetcode.dogrod.com/#/data-structures/linked-list) | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/utils/linked-list/index.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/linked-list.test.ts) | 
+[Linked List](http://leetcode.dogrod.com/#/data-structures/linked-list) | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/utils/linked-list/index.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/linked-list/index.test.ts) | 
