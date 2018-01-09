@@ -1,4 +1,4 @@
-import isIsomorphic from '../src/isomorphic-strings'
+import isIsomorphic from '../../src/isomorphic-strings'
 
 describe(
   'Isomorphic Strings: Given two strings s and t, determine if they are isomorphic.',

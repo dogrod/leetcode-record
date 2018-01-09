@@ -1,6 +1,6 @@
-import addTwoNumbers from '../src/add-two-numbers'
+import addTwoNumbers from '../../src/add-two-numbers'
 
-import LinkedList from '../src/utils/linked-list'
+import LinkedList from '../../src/utils/linked-list'
 
 describe(
   'Add two numbers',

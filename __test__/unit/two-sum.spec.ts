@@ -1,7 +1,7 @@
 import {
   solution1,
   solution2
-} from '../src/two-sum'
+} from '../../src/two-sum'
 
 const givenNumbers = [2, 7, 11, 15]
 const target = 9
