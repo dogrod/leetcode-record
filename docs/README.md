@@ -4,7 +4,7 @@
 
 > Github repo: https://github.com/dogrod/leetcode-record
 
-[按标签查看](/sort-by-topic)
+[按标签查看](http://leetcode.dogrod.com/#/sort-by-topic)
 
  Solved | # | Problem | Difficulty | Source Code | Unit Test | Related Topics
 ---- | --- | --- | --- | --- | --- | ---
