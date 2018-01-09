@@ -11,7 +11,7 @@
 ✓ | 1 | [Two Sum](http://leetcode.dogrod.com/#/two-sum) | Easy | ✓ | ✓ | Array, Hash Table
 ✓ | 2 | [Add Two Numbers](http://leetcode.dogrod.com/#/add-two-numbers) | Medium |   |   | Linked List, Math
 ✓ | 3 | [Longest Substring Without Repeating Characters](http://leetcode.dogrod.com/#/longest-substring-without-repeating-characters) | Medium |   |   | Hash Table, Two Pointers, String
-- | 5 | [Longest Palindromic Substring](http://leetcode.dogrod.com/#/longest-palindromic-substring) | Medium |   |   | String
+X | 5 | [Longest Palindromic Substring](http://leetcode.dogrod.com/#/longest-palindromic-substring) | Medium |   |   | String
 ✓ | 7 | [Reverse Integer](http://leetcode.dogrod.com/#/reverse-integer) | Easy |   |   | Math
 ✓ | 9 | [Palindrome Number](http://leetcode.dogrod.com/#/palindrome-number) | Easy |   |   | Math
 ✓ | 13 | [Roman to Integer](http://leetcode.dogrod.com/#/roman-to-integer) | Easy |   |   | Math, String
