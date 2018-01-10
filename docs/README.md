@@ -10,7 +10,7 @@
 ---- | --- | --- | --- | --- | --- | ---
 ✓ | 1 | [Two Sum](http://leetcode.dogrod.com/#/problems/two-sum) | Easy | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/two-sum.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/unit/two-sum.spec.ts) | Array, Hash Table
 ✓ | 2 | [Add Two Numbers](http://leetcode.dogrod.com/#/problems/add-two-numbers) | Medium | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/add-two-numbers.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/unit/add-two-numbers.spec.ts) | Linked List, Math
-✓ | 3 | [Longest Substring Without Repeating Characters](http://leetcode.dogrod.com/#/problems/longest-substring-without-repeating-characters) | Medium |   |   | Hash Table, Two Pointers, String
+✓ | 3 | [Longest Substring Without Repeating Characters](http://leetcode.dogrod.com/#/problems/longest-substring-without-repeating-characters) | Medium | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/longest-substring-without-repeating-characters.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/unit/longest-substring-without-repeating-characters.spec.ts) | Hash Table, Two Pointers, String
 X | 5 | [Longest Palindromic Substring](http://leetcode.dogrod.com/#/problems/longest-palindromic-substring) | Medium |   |   | String
 ✓ | 7 | [Reverse Integer](http://leetcode.dogrod.com/#/problems/reverse-integer) | Easy |   |   | Math
 ✓ | 9 | [Palindrome Number](http://leetcode.dogrod.com/#/problems/palindrome-number) | Easy |   |   | Math
