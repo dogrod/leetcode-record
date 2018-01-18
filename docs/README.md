@@ -13,7 +13,7 @@
 ✓ | 3 | [Longest Substring Without Repeating Characters](http://leetcode.dogrod.com/#/problems/longest-substring-without-repeating-characters) | Medium | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/longest-substring-without-repeating-characters.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/unit/longest-substring-without-repeating-characters.spec.ts) | Hash Table, Two Pointers, String
 X | 5 | [Longest Palindromic Substring](http://leetcode.dogrod.com/#/problems/longest-palindromic-substring) | Medium |   |   | String
 ✓ | 7 | [Reverse Integer](http://leetcode.dogrod.com/#/problems/reverse-integer) | Easy | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/reverse-integer.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/unit/reverse-integer.spec.ts) | Math
-✓ | 9 | [Palindrome Number](http://leetcode.dogrod.com/#/problems/palindrome-number) | Easy |   |   | Math
+✓ | 9 | [Palindrome Number](http://leetcode.dogrod.com/#/problems/palindrome-number) | Easy | ✓ [View](https://github.com/dogrod/leetcode-record/blob/master/src/palindrome-number.ts) | ✓ [Test Case](https://github.com/dogrod/leetcode-record/blob/master/__test__/unit/palindrome-number.spec.ts) | Math
 ✓ | 13 | [Roman to Integer](http://leetcode.dogrod.com/#/problems/roman-to-integer) | Easy |   |   | Math, String
 ✓ | 14 | [Longest Common Prefix](http://leetcode.dogrod.com/#/problems/longest-common-prefix) | Easy |   |   | String
 ✓ | 21 | [Merge Two Sorted Lists](http://leetcode.dogrod.com/#/problems/merge-two-sorted-lists) | Easy |   |   | Linked List
