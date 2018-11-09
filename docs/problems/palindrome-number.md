@@ -20,7 +20,7 @@ There is a more generic way of solving this problem.
 
 
 ### Thoughts
-1. 同 [Reverse Integer](/reverse-integer) 中的第二种解法，将 number 倒置进行对比
+1. 同 [Reverse Integer](/problems/reverse-integer) 中的第二种解法，将 number 倒置进行对比
 
 ### Solutions
 
